@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12941, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Keys:
+  - {fileID: 11400000, guid: e55865a4703d1174ca4cea7d845ebd41, type: 2}
+  m_Vals:
+  - timeInFrames: 1
+    timeAreaShownRange: {x: -0.13778861, y: 10.554606}
+    m_Keys:
+    - {fileID: 114328760622026434, guid: e55865a4703d1174ca4cea7d845ebd41, type: 2}
+    - {fileID: 114703656835361130, guid: e55865a4703d1174ca4cea7d845ebd41, type: 2}
+    - {fileID: 114056578559216958, guid: e55865a4703d1174ca4cea7d845ebd41, type: 2}
+    m_Vals:
+    - collapsed: 0
+      showInlineCurves: 0
+    - collapsed: 0
+      showInlineCurves: 1
+    - collapsed: 0
+      showInlineCurves: 0
